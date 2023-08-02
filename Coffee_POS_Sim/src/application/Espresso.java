@@ -1,5 +1,5 @@
 package application;
 
-public class Espresso {
+public class Espresso extends Drink {
 	
 }

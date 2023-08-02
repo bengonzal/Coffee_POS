@@ -1,5 +1,5 @@
 package application;
 
-public class Latte {
+public class Latte extends Drink{
 
 }
